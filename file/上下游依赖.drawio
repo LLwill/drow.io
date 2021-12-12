@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T17:11:04.595Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="pMz-ggw71Vcqto6lzrjc" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T17:13:57.670Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="VKIGpxwF6eV5sBlytxrw" version="15.9.1" type="github">
   <diagram id="RDRD_1NSJpqTkY1V5Sak" name="第 1 页">
     <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="zQOf3fxRL3Rs1v6G31Rf-12" value="大数据" style="ellipse;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="413.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zQOf3fxRL3Rs1v6G31Rf-19" value="" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;exitX=0.16;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zQOf3fxRL3Rs1v6G31Rf-18" target="zQOf3fxRL3Rs1v6G31Rf-11">
+        <mxCell id="zQOf3fxRL3Rs1v6G31Rf-19" value="" style="edgeStyle=none;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;exitX=0.16;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="zQOf3fxRL3Rs1v6G31Rf-18" target="zQOf3fxRL3Rs1v6G31Rf-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zQOf3fxRL3Rs1v6G31Rf-18" value="供应商" style="ellipse;shape=cloud;sketch=1;" vertex="1" parent="1">
