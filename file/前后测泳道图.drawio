@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T14:38:18.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="RLGSCPwAPqiO0nmz4aWn" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T16:26:19.513Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="oEiQvf97R2ob3gElWpO3" version="15.9.1" type="github">
   <diagram id="VNb34vfujdgKMntsX6jH" name="第 1 页">
-    <mxGraphModel dx="1577" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12000" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,10 +13,10 @@
         <mxCell id="d169c82LsVunIj2cIpod-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="d169c82LsVunIj2cIpod-33" source="d169c82LsVunIj2cIpod-41" target="d169c82LsVunIj2cIpod-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-41" value="新建KOL更新任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="d169c82LsVunIj2cIpod-33">
+        <mxCell id="d169c82LsVunIj2cIpod-41" value="新建KOL更新&lt;br&gt;任务" style="rounded=1;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="d169c82LsVunIj2cIpod-33">
           <mxGeometry x="15" y="510" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-49" value="向底层提交timeline任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="d169c82LsVunIj2cIpod-33">
+        <mxCell id="d169c82LsVunIj2cIpod-49" value="向底层提交&lt;br&gt;timeline任务" style="rounded=1;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="d169c82LsVunIj2cIpod-33">
           <mxGeometry x="15" y="570" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-29" value="KOL doing" style="swimlane;startSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="d169c82LsVunIj2cIpod-1">
@@ -25,22 +25,22 @@
         <mxCell id="d169c82LsVunIj2cIpod-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="d169c82LsVunIj2cIpod-29" source="d169c82LsVunIj2cIpod-54" target="d169c82LsVunIj2cIpod-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-54" value="更新状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="d169c82LsVunIj2cIpod-29">
+        <mxCell id="d169c82LsVunIj2cIpod-54" value="更新状态" style="rounded=1;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="d169c82LsVunIj2cIpod-29">
           <mxGeometry x="15" y="210" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="d169c82LsVunIj2cIpod-29" source="d169c82LsVunIj2cIpod-56" target="d169c82LsVunIj2cIpod-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-56" value="更新底层任务状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="d169c82LsVunIj2cIpod-29">
+        <mxCell id="d169c82LsVunIj2cIpod-56" value="更新底层任务&lt;br&gt;状态" style="rounded=1;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="d169c82LsVunIj2cIpod-29">
           <mxGeometry x="15" y="270" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-58" value="更新KOL基本数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="d169c82LsVunIj2cIpod-29">
+        <mxCell id="d169c82LsVunIj2cIpod-58" value="更新KOL基本&lt;br&gt;数据" style="rounded=1;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="d169c82LsVunIj2cIpod-29">
           <mxGeometry x="15" y="340" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-25" value="KOL done" style="swimlane;startSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="d169c82LsVunIj2cIpod-1">
           <mxGeometry x="280" width="120" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-60" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="d169c82LsVunIj2cIpod-25">
+        <mxCell id="d169c82LsVunIj2cIpod-60" value="结束" style="rounded=1;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="d169c82LsVunIj2cIpod-25">
           <mxGeometry x="15" y="340" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-37" value="前测 active" style="swimlane;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="d169c82LsVunIj2cIpod-1">
@@ -49,34 +49,34 @@
         <mxCell id="d169c82LsVunIj2cIpod-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="d169c82LsVunIj2cIpod-37" source="d169c82LsVunIj2cIpod-39" target="d169c82LsVunIj2cIpod-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-39" value="新建前测任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-37">
+        <mxCell id="d169c82LsVunIj2cIpod-39" value="新建前测任务" style="rounded=1;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-37">
           <mxGeometry x="15" y="40" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="d169c82LsVunIj2cIpod-37" source="d169c82LsVunIj2cIpod-40" target="d169c82LsVunIj2cIpod-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-40" value="获取需要更新的KOL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-37">
+        <mxCell id="d169c82LsVunIj2cIpod-40" value="获取需要更新&lt;br&gt;的KOL" style="rounded=1;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-37">
           <mxGeometry x="15" y="100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="d169c82LsVunIj2cIpod-37" source="d169c82LsVunIj2cIpod-43" target="d169c82LsVunIj2cIpod-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-43" value="可复用7天内数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-37">
+        <mxCell id="d169c82LsVunIj2cIpod-43" value="可复用7天内数据" style="rounded=1;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-37">
           <mxGeometry x="15" y="190" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="d169c82LsVunIj2cIpod-37" source="d169c82LsVunIj2cIpod-62" target="d169c82LsVunIj2cIpod-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-66" value="舆情库获取近期发帖数据，保存后测任务ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-37">
+        <mxCell id="d169c82LsVunIj2cIpod-66" value="舆情库获取近期&lt;br&gt;发帖数据，保存&lt;br&gt;后测任务ID" style="rounded=1;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-37">
           <mxGeometry x="15" y="400" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-62" value="获取完成timeline的KOL的前测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-37">
+        <mxCell id="d169c82LsVunIj2cIpod-62" value="获取完成timeline&lt;br&gt;的KOL的前测" style="rounded=1;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-37">
           <mxGeometry x="15" y="340" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-2" value="前测 waiting" style="swimlane;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="d169c82LsVunIj2cIpod-1">
           <mxGeometry x="520" width="120" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-45" value="更新状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-2">
+        <mxCell id="d169c82LsVunIj2cIpod-45" value="更新状态" style="rounded=1;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-2">
           <mxGeometry x="15" y="150" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-3" value="前测 doing" style="swimlane;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="d169c82LsVunIj2cIpod-1">
@@ -85,22 +85,22 @@
         <mxCell id="d169c82LsVunIj2cIpod-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="d169c82LsVunIj2cIpod-3" source="d169c82LsVunIj2cIpod-65" target="d169c82LsVunIj2cIpod-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-65" value="更新状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-3">
+        <mxCell id="d169c82LsVunIj2cIpod-65" value="更新状态" style="rounded=1;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-3">
           <mxGeometry x="20" y="470" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="d169c82LsVunIj2cIpod-3" source="d169c82LsVunIj2cIpod-90" target="d169c82LsVunIj2cIpod-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-90" value="获取全部结束的后测任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-3">
+        <mxCell id="d169c82LsVunIj2cIpod-90" value="获取全部结束的&lt;br&gt;后测任务" style="rounded=1;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-3">
           <mxGeometry x="20" y="760" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-93" value="更新KOL的数据（7天复用）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-3">
+        <mxCell id="d169c82LsVunIj2cIpod-93" value="更新KOL的数据&lt;br&gt;（7天复用）" style="rounded=1;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-3">
           <mxGeometry x="20" y="820" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-4" value="前测 done" style="swimlane;startSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="d169c82LsVunIj2cIpod-1">
           <mxGeometry x="760" width="120" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-47" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-4">
+        <mxCell id="d169c82LsVunIj2cIpod-47" value="结束" style="rounded=1;html=1;" vertex="1" parent="d169c82LsVunIj2cIpod-4">
           <mxGeometry x="15" y="820" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-6" value="后测 active" style="swimlane;startSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-1">
@@ -109,10 +109,10 @@
         <mxCell id="d169c82LsVunIj2cIpod-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="d169c82LsVunIj2cIpod-6" source="d169c82LsVunIj2cIpod-20" target="d169c82LsVunIj2cIpod-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-20" value="新建帖子更新任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-6">
+        <mxCell id="d169c82LsVunIj2cIpod-20" value="新建帖子更新任务" style="rounded=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-6">
           <mxGeometry x="20" y="400" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-23" value="向底层提交帖子更新任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-6">
+        <mxCell id="d169c82LsVunIj2cIpod-23" value="向底层提交帖子&lt;br&gt;更新任务" style="rounded=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-6">
           <mxGeometry x="20" y="460" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-7" value="后测 doing" style="swimlane;startSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-1">
@@ -121,22 +121,22 @@
         <mxCell id="d169c82LsVunIj2cIpod-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="d169c82LsVunIj2cIpod-7" source="d169c82LsVunIj2cIpod-72" target="d169c82LsVunIj2cIpod-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-72" value="更新状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-7">
+        <mxCell id="d169c82LsVunIj2cIpod-72" value="更新状态" style="rounded=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-7">
           <mxGeometry x="15" y="460" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="d169c82LsVunIj2cIpod-7" source="d169c82LsVunIj2cIpod-74" target="d169c82LsVunIj2cIpod-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-74" value="更新底层任务状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-7">
+        <mxCell id="d169c82LsVunIj2cIpod-74" value="更新底层任务状态" style="rounded=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-7">
           <mxGeometry x="15" y="520" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="d169c82LsVunIj2cIpod-7" source="d169c82LsVunIj2cIpod-77" target="d169c82LsVunIj2cIpod-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-77" value="更新KOL账号信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-7">
+        <mxCell id="d169c82LsVunIj2cIpod-77" value="更新KOL账号信息" style="rounded=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-7">
           <mxGeometry x="15" y="580" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-81" value="获取完成timeline的KOL的后测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-7">
+        <mxCell id="d169c82LsVunIj2cIpod-81" value="获取完成timeline&lt;br&gt;的KOL的后测" style="rounded=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-7">
           <mxGeometry x="15" y="640" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-8" value="后测 calclated" style="swimlane;startSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-1">
@@ -145,16 +145,16 @@
         <mxCell id="d169c82LsVunIj2cIpod-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="d169c82LsVunIj2cIpod-8" source="d169c82LsVunIj2cIpod-83" target="d169c82LsVunIj2cIpod-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-83" value="更新状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-8">
+        <mxCell id="d169c82LsVunIj2cIpod-83" value="更新状态" style="rounded=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-8">
           <mxGeometry x="15" y="640" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-85" value="计算后测数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-8">
+        <mxCell id="d169c82LsVunIj2cIpod-85" value="计算后测数据" style="rounded=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-8">
           <mxGeometry x="15" y="700" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-9" value="后测 done" style="swimlane;startSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-1">
           <mxGeometry x="1240" width="120" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="d169c82LsVunIj2cIpod-88" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-9">
+        <mxCell id="d169c82LsVunIj2cIpod-88" value="结束" style="rounded=1;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="d169c82LsVunIj2cIpod-9">
           <mxGeometry x="15" y="700" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d169c82LsVunIj2cIpod-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="d169c82LsVunIj2cIpod-1" source="d169c82LsVunIj2cIpod-66" target="d169c82LsVunIj2cIpod-20">
