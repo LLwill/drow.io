@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" modified="2023-10-22T15:27:27.354Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="gUHEYHz-3YEDJx8b2G5R" version="22.0.6" type="github">
+  <diagram name="Page-1" id="Seg9eLYfbvG9fYDRIOxm">
+    <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hK698nOwGelB4IAssb44-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hK698nOwGelB4IAssb44-16" target="hK698nOwGelB4IAssb44-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-1" value="评估帖子ID" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hK698nOwGelB4IAssb44-2" target="hK698nOwGelB4IAssb44-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hK698nOwGelB4IAssb44-2" target="hK698nOwGelB4IAssb44-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-2" value="查询评估帖子的评论" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hK698nOwGelB4IAssb44-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-4" value="判断评论与主贴相关性&lt;br&gt;以及情感" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="305" width="160" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hK698nOwGelB4IAssb44-6" target="hK698nOwGelB4IAssb44-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hK698nOwGelB4IAssb44-6" target="hK698nOwGelB4IAssb44-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hK698nOwGelB4IAssb44-6" target="hK698nOwGelB4IAssb44-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-6" value="评估帖子的评论用户" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="810" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hK698nOwGelB4IAssb44-8" target="hK698nOwGelB4IAssb44-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-8" value="近期评论" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hK698nOwGelB4IAssb44-12" target="hK698nOwGelB4IAssb44-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-12" value="近期评论正文" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="hK698nOwGelB4IAssb44-12" target="hK698nOwGelB4IAssb44-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="240" as="sourcePoint" />
+            <mxPoint x="1100" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-14" value="与评估帖子&lt;br&gt;的相关性判断" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="105" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hK698nOwGelB4IAssb44-1" target="hK698nOwGelB4IAssb44-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="60" as="sourcePoint" />
+            <mxPoint x="670" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-16" value="查询评估帖子/用户信息" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-18" value="与评估帖子&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;的相关性判断" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="225" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hK698nOwGelB4IAssb44-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="955" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1280" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="hK698nOwGelB4IAssb44-14" target="hK698nOwGelB4IAssb44-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="955" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1350" y="145" />
+              <mxPoint x="1350" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hK698nOwGelB4IAssb44-37" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
