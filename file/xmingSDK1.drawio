@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T07:04:02.635Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="SL3jlFQFzdi3R985lbCM" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T07:06:13.888Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="8yeP8S2eSRHWlWW6SKUb" version="24.5.5" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="909" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1172" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,14 +121,14 @@
             <mxPoint x="540" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="889P60M4afETW43CCBk1-17" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;1.插件是否存在&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.插件状态（是否打开、版本）&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IA07FoAzd7XtIn1neWYw-2">
-          <mxGeometry x="382.25" y="72" width="130" height="30" as="geometry" />
+        <mxCell id="889P60M4afETW43CCBk1-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1.插件是否存在&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.插件状态（是否打开、版本）&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IA07FoAzd7XtIn1neWYw-2">
+          <mxGeometry x="353" y="72" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="889P60M4afETW43CCBk1-18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;1.操作插件（打开插件、继续聊天）&lt;br&gt;2.插件中注册事件&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="IA07FoAzd7XtIn1neWYw-2">
-          <mxGeometry x="355" y="119" width="130" height="30" as="geometry" />
+        <mxCell id="889P60M4afETW43CCBk1-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1.操作插件（打开插件、继续聊天）&lt;br&gt;2.插件中注册事件&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="IA07FoAzd7XtIn1neWYw-2">
+          <mxGeometry x="355" y="119" width="130" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="889P60M4afETW43CCBk1-20" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;事件回调&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IA07FoAzd7XtIn1neWYw-2">
-          <mxGeometry x="402" y="165.5" width="115" height="30" as="geometry" />
+        <mxCell id="889P60M4afETW43CCBk1-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;事件回调&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IA07FoAzd7XtIn1neWYw-2">
+          <mxGeometry x="402" y="166.5" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="889P60M4afETW43CCBk1-21" value="插件展示处理" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="IA07FoAzd7XtIn1neWYw-2">
           <mxGeometry x="540" y="93" width="140" height="67" as="geometry" />
@@ -136,7 +136,7 @@
         <mxCell id="889P60M4afETW43CCBk1-22" value="满足条件时插件触发&lt;br&gt;（多选聊天）" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rotation=15;" vertex="1" parent="IA07FoAzd7XtIn1neWYw-2">
           <mxGeometry x="540" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="889P60M4afETW43CCBk1-23" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;1.Agent 列表&lt;br&gt;2.单论对话&lt;br&gt;3.多轮对话&lt;br&gt;4.会话列表&lt;br&gt;5.对话历史记录&lt;br&gt;...&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IA07FoAzd7XtIn1neWYw-2">
+        <mxCell id="889P60M4afETW43CCBk1-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1.Agent 列表&lt;br&gt;2.单论对话&lt;br&gt;3.多轮对话&lt;br&gt;4.会话列表&lt;br&gt;5.对话历史记录&lt;br&gt;...&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IA07FoAzd7XtIn1neWYw-2">
           <mxGeometry x="395" y="210" width="145" height="130" as="geometry" />
         </mxCell>
         <mxCell id="889P60M4afETW43CCBk1-25" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.538;entryY=-0.066;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.008;exitY=0.842;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="IA07FoAzd7XtIn1neWYw-2" target="IA07FoAzd7XtIn1neWYw-10">
