@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T07:30:53.278Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="f12XtvRWDRZEMeBBrL4N" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T09:21:08.316Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="2uiMbdWPRmBxSpToRf6R" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Zh2iLBxZjpBHtdLT9Kpo">
     <mxGraphModel dx="946" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="0PrXw2p8CyodZAnzhfTx-3" value="kit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="940" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0PrXw2p8CyodZAnzhfTx-13" value="CopilotKit developer Cli" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0PrXw2p8CyodZAnzhfTx-13" value="CopilotKit developer CLI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="850" width="90" height="260" as="geometry" />
         </mxCell>
         <mxCell id="0PrXw2p8CyodZAnzhfTx-14" value="Copilot DEV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
